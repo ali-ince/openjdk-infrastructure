@@ -34,7 +34,6 @@
     - Common
     - Windows_Updates
     - Jenkins                     # AdoptOpenJDK infrastructure
-    - MSVS_2010
     - cygwin
     - Firefox
     - Strawberry_Perl             # Testing
